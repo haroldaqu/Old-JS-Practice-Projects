@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../Giphy API Practice"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Weather"
+  }
+}
