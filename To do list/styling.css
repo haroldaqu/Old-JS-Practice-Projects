@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 5vh;
+  background: aliceblue;
+  height: 40vh;
+}
+
+.title {
+}
+
+.input {
+  margin: 5vh;
+  padding: 2vh;
+}
+
+.button {
+  padding: 5vh;
+}
+
+.classContainer {
+  background: lightblue;
+  padding: 5vh;
+}
